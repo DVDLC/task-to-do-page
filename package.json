@@ -9,7 +9,7 @@
     "build:dev": "webpack --config webpack.config.js",
     "start": "webpack serve --config webpack.config.js --open --port=8080"
   },
-  "author": "",
+  "author": "David C.",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.17.5",
